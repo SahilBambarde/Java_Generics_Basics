@@ -1,0 +1,44 @@
+Generics
+
+mechanism for type checking at compile time
+java 5 feature
+
+diamond operator is for generics
+
+benifits
+
+String Type checks
+type safety
+elimination of casts
+code re-usability
+Collection fromwork for type safety
+
+Multiple type parameters
+
+subtyping
+
+Generic method
+
+Bounded TYpe parameter
+
+----------------------------------------------------------------------------------
+
+Wild Card : ?
+
+Unbounded wild card
+upper bounded wild card : ? extends A
+lower bounded wildcard : ? super B
+
+-------------------------------------------------------------------------
+Restriction with wild cards
+
+------------------------------------------------
+Code behaviour in generic and non-generic class
+
+----------------------------------------------------
+Generic and Non Generic Area
+
+Type Erasure: Java Compiler
+ type safety and tyye cast both work at compile time and not at run time
+
+
